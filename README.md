@@ -1,2 +1,2 @@
 # Bank-of-Z
-Legacy Modernization to Modernized Stack
+Legacy Modernization to Modern Stack
